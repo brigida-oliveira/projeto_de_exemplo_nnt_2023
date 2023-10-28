@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ProjetoDeTeste" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorSurface">#0081af</item>
+        <item name="colorOnSurface">#ffffff</item>
+        <item name="colorOnSurfaceVariant">#ffffff</item>
+        <item name="colorSecondaryContainer">#00ABE7</item>
+        <item name="colorOnSecondaryContainer">#ffffff</item>
+    </style>
+
+    <style name="Theme.ProjetoDeTeste" parent="Base.Theme.ProjetoDeTeste" />
+</resources>
